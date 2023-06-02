@@ -1,0 +1,3 @@
+C:/Users/BOOK3/Downloads/LSMKV/LSMKV/cmake-build-debug/CMakeFiles/LSMKV.dir
+C:/Users/BOOK3/Downloads/LSMKV/LSMKV/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BOOK3/Downloads/LSMKV/LSMKV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
